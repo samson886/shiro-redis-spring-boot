@@ -1,4 +1,4 @@
-package org.crazycake.shiroredis.sprint.boot;
+package org.crazycake.shiroredis.spring.boot;
 
 import org.springframework.context.annotation.Configuration;
 
